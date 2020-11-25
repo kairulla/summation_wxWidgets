@@ -1,0 +1,1 @@
+../build-Debug/project1/main.cpp.o ../build-Debug/project1/gui.cpp.o ../build-Debug/project1/controls.cpp.o
